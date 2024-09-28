@@ -1,0 +1,17 @@
+h1{background-color:rgb(244, 202, 14);}
+
+h2{font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: brown;}
+
+h1,h2{
+    text-align: center;}
+
+img{padding-left: 40%;
+    width: 25%;}
+
+      b{color: red;}
+
+      marquee,i{
+        color:blue;
+      font-size:x-large;}
+  
