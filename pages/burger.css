@@ -1,7 +1,7 @@
 h1{background-color:rgb(244, 202, 14);}
 
 h2{font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: brown;}
+    color: rgb(19, 220, 239);}
 
 h1,h2{
     text-align: center;}
@@ -11,6 +11,13 @@ img{padding-left: 40%;
 
       b{color: red;}
 
+      body{background-image: url(https://images3.alphacoders.com/215/21575.jpg);
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: cover;
+       color: aliceblue;
+      font-size: large;}
+
     marquee,i{
-      color:blue;
+      color:rgb(132, 255, 0);
     font-size:x-large;}

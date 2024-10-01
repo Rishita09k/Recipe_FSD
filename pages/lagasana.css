@@ -11,7 +11,14 @@ img{padding-left: 40%;
 
       b{color: red;}
 
+      body{background-image: url(../images/Designer\ \(1\).png);
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+         color: rgb(17, 20, 2);
+        font-size: large;}
+  
       marquee,i{
-        color:blue;
+        color:rgba(236, 236, 9, 0.755);
       font-size:x-large;}
   
