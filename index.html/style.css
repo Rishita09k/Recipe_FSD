@@ -1,7 +1,5 @@
-h1{background-color:yellowgreen;}
-
-h2{font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: brown;}
+h1{background-color:black;
+color: antiquewhite;}
 
 h1,h2{
     text-align: center;
@@ -11,3 +9,12 @@ h1,h2{
 ul{font-size: larger;}
 
 img{padding-left: 25%;}
+
+.mycontainer {
+  display: flex;
+}
+.mycontainer > div {
+  width:33%;
+}
+div{margin: 10px;}
+

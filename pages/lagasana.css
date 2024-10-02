@@ -1,7 +1,7 @@
 h1{background-color:rgb(244, 202, 14);}
 
 h2{font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: brown;}
+    color: rgb(37, 197, 53);}
 
 h1,h2{
     text-align: center;}
@@ -9,13 +9,13 @@ h1,h2{
 img{padding-left: 40%;
     width: 25%;}
 
-      b{color: red;}
+      b{color: rgb(200, 17, 17);}
 
-      body{background-image: url(../images/Designer\ \(1\).png);
+      body{background-image: url(../images/Screenshot\ 2024-10-02\ 115754.png);
         background-repeat: no-repeat;
         background-attachment: fixed;
         background-size: cover;
-         color: rgb(17, 20, 2);
+         color: white;
         font-size: large;}
   
       marquee,i{
